@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * maim - A program that prints the size of various computer types
- *
+ * main - A program that print the size of vavious computer types
  * Return: 0 (Success)
  */
 int main(void)
+
 {
 	char a;
 	int b;
