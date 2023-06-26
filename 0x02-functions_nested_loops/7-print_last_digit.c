@@ -14,6 +14,6 @@ if (last_d < 0)
 {
 last_d = last_d * -1;
 }
-_putchar(last_d + 0);
+_putchar(last_d + '0');
 return (last_d);
 }
