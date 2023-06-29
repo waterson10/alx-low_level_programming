@@ -7,10 +7,10 @@
 
 void puts_half(char *str)
 {
-int j;
-int k = 0;
+int j = 0;
+int k;
 
-while (str[j] != '\n')
+while (str[j] != '\0')
 {
 j++;
 }
