@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * print_array - Print an element of array of an interger 
  * @a: Array of an interger
