@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * print_array - Print an element of array of an interger 
+ * print_array - Print an element of array of an interger
  * @a: Array of an interger
  * @n: number of elements of an array of an interger
  * Return: void
